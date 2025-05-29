@@ -1,0 +1,15 @@
+corpo{
+  background-color: red;
+  display: flex;
+}
+.imagem{
+  width: 50%;
+  background-color: yellow;
+}
+.texto{
+  width: 50%;
+  background-color: blue;
+}
+
+
+
